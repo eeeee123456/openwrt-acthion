@@ -16,3 +16,5 @@
 mkdir package/diy
 git clone https://github.com/EOYOHOO/UA2F.git package/diy/UA2F
 git clone https://github.com/EOYOHOO/rkp-ipid.git package/diy/rkp-ipid
+git clone https://github.com/f8q8/luci-app-autoreboot.git package/diy/autoreboot
+git clone https://github.com/jerrykuku/luci-theme-argon.git package/diy/argon
